@@ -6,7 +6,7 @@ Tested with Python 2.7.6
 
 ####Usage
 
-	log2csv.py [-h] [-v] format input output
+	apache-log-to-csv.py [-h] [-v] format input output
 	
 - Format: [Apache log format](http://httpd.apache.org/docs/2.2/logs.html). Example: ```"%h %u %t \"%r\" %>s %O"```
 - Input: Path to the Apache log file. Example: ```/var/log/apache/access.log``` 
