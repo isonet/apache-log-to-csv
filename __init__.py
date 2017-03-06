@@ -29,7 +29,7 @@ import apache_log_parser
 import argparse
 
 
-class bcolors:
+class Colors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
     OKGREEN = '\033[92m'
