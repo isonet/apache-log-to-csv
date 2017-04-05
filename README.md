@@ -1,10 +1,12 @@
-###Small tool to convert Apache log files to csv.
+# apache-log-to-csv
+
+## Small tool to convert Apache log files to csv.
 
 I'm using [apache-log-parser](https://github.com/rory/apache-log-parser), you may need to install it.
 
 Tested with Python 2.7.6
 
-####Usage
+## Usage
 
 	apache-log-to-csv.py [-h] [-v] format input output
 	
